@@ -38,7 +38,7 @@ This reference app targets the **`social`** and **`gaming`** vertical and provid
 ## Functional Requirements
 
 | Requirement | Description |
-| ------- | ------- |
+| ------- | ------------------------------ |
  Video Stream |  <ul><li>Join & Leave Call</li><li>Toggle Mic & Video (on/off)</li><li>Screen Share</li></ul>
 Voice Call |  <ul><li>Join & Leave Call</li><li>Display user name & avatar</li><li>Toggle Mic & Video (on/off)</li><li>Admin controls over guests</li></ul>
 Live Chat |  <ul><li>Send & Recieve Messages</li></ul>
