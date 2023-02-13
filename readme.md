@@ -2,8 +2,6 @@
 
 Truly interactive live streaming for gaming, live events and more. 
 
-> Note: Show image for these 4 core features with a short description
-
 1. Stream Events 
 2. Message & Voice chat with Audiance
 3. Broadcast streams on youtube
@@ -39,23 +37,13 @@ This reference app targets the **`social`** and **`gaming`** vertical and provid
 
 ## Functional Requirements
 
-1. Video Stream
-   1. Join & Leave Call
-   2. Toggle Mic & Video (on/off)
-   3. Screen Share
-2. Voice Call 
-   1. Join & Leave Call
-   2. Toggle Mic (on/off)
-   3. Display user name & avatar
-   4. Admin controls over guests
-3. Live Chat
-   1. Send & Recieve Messages
-4. Cloud Recording
-   1. Record Streams
-   2. Store streams
-   3. Access Previous Streams
-5. Broadcast to youtube
-   1. Push Stream to 3rd party platforms
+| Requirement | Description |
+| ------- | ------- |
+ Video Stream |  <ul><li>Join & Leave Call</li><li>Toggle Mic & Video (on/off)</li><li>Screen Share</li></ul>
+Voice Call |  <ul><li>Join & Leave Call</li><li>Display user name & avatar</li><li>Toggle Mic & Video (on/off)</li><li>Admin controls over guests</li></ul>
+Live Chat |  <ul><li>Send & Recieve Messages</li></ul>
+Cloud Recording |  <ul><li>Record Streams</li><li>Store Streams</li><li>Access Previous Streams</li></ul>
+Broadcast to youtube |  <ul><li>Push Stream to 3rd party platforms</li></ul>
 
 
 ## Feature Specification
@@ -102,3 +90,14 @@ This reference app targets the **`social`** and **`gaming`** vertical and provid
    1. Feature: Push Streams Live to youtube
       1. Details: Streams can be boradcasted on multiple platforms, live.
       2. Agoora Tools: Media Push, RTC
+      
+      
+### Timeline/Steps
+
+| Description | Estimate |
+|-------------|----------|
+App Builer Code & API Breakdown | 5d |
+UI Customization/Modifications | 7d |
+Custom Backend With Auth | 3d |
+Cloud Recording | 2d |
+3rd Party RTMP Push   | 5d |
