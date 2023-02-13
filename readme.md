@@ -9,7 +9,7 @@ Truly interactive live streaming for gaming, live events and more.
 
 ## Summary
 
-Think Twitch, Club House and Streamyards, all in one application. This is a place where users can schedule and host events with a live audiance via chat, along with the ability to bring up audiance memebers to speak via voice chat, just like you would on a twitter spaces or club house call. 
+Think Twitch, Club House and Streamyards, all in one application. This is a place where users can schedule and host events with a live audience via chat, along with the ability to bring up audience memebers to speak via voice chat, just like you would on a twitter spaces or club house call. 
 
 Streams can also be recorded and or boradcasted to 3rd party platforms like youtube. 
 
