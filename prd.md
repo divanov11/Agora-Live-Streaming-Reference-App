@@ -14,6 +14,9 @@ Think Twitch, Club House and Streamyards, all in one application. This is a plac
 Streams can also be recorded and or boradcasted to 3rd party platforms like youtube. 
 
 
+<img src="images/pages_preview.png" />
+
+
 ## Purpose & Target Audiance
 
 This reference app targets the **`social`** and **`gaming`** vertical and provides a starting point for anyone looking for to add interactive live streaming features. This application will give a foundation for anyone looking to build something simular or features from the following virtual events organizations:
@@ -32,7 +35,7 @@ This reference app targets the **`social`** and **`gaming`** vertical and provid
 
 ## Structure Diagram
 
-<img src="diagram.png"/>
+<img src="images/diagram.png"/>
 
 
 ## Functional Requirements
@@ -96,7 +99,7 @@ Broadcast to youtube |  <ul><li>Push Stream to 3rd party platforms</li></ul>
 
 | Description | Estimate |
 |-------------|----------|
-App Builer Code & API Breakdown | 5d |
+App Builder Code & API Breakdown | 5d |
 UI Customization/Modifications | 7d |
 Custom Backend With Auth | 3d |
 Cloud Recording | 2d |
